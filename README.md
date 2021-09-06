@@ -1,4 +1,4 @@
-# Work Day Scheduler Starter Code
+# Work Day Scheduler
 
 This page will help you schedule your daily schedule. The schedule has 8am - 5pm time frame. 
 
